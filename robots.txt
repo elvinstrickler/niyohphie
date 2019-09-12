@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaebaemah.kmeans.online/sitemap.xml
